@@ -32,4 +32,6 @@
 
 ### ✍️ Quote:
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Talk+is+cheap.+Show+me+the+code.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Keep+learning.+Keep+building." alt="Quote" />
+</div>
