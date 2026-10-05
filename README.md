@@ -26,7 +26,7 @@
 
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Wrks&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Wrks&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Wrks&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Wrks&layout=compact&theme=dark)
 
