@@ -43,11 +43,12 @@
 
 ## 📜 Certifications
 
-🥇 **Databases and SQL for Data Science with Python** – Coursera<br>
-🥇 **Fundamentals of Computer Organization** – Coursera<br>
-📜 **Introduction to Software Engineering** – Coursera<br>
-📜 **OOP in C++** – Coursera<br>
-📜 **OOP in Java** – Coursera 
+🥇 [**Databases and SQL for Data Science with Python**](https://coursera.org/share/0aea1937b29e8d14bb9436d7cb02c4c0) – Coursera<br>
+🥇 [**Fundamentals of Computer Organization**](https://coursera.org/share/3e030d0d0dffd26d56bb43bb3e3c5def) – Coursera<br>
+📜 [**Introduction to Software Engineering**](https://coursera.org/share/ddb4a79048a681ec2e90b17c48b6928a) – Coursera<br>
+📜 [**OOP in C++**](https://coursera.org/share/773a4474dfbc2ea5040cec06edff899d) – Coursera<br>
+📜 [**OOP in Java**](https://coursera.org/share/d70f4196da589b9d5f58dc0768f6aadd) – Coursera
+
 
 ### ✍️ Quote:
 
