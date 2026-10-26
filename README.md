@@ -5,6 +5,10 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/ByteByAryan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryankishan030@gmail.com)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Wrks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ## 💻 Tech Stack:
 
 **Languages:**
@@ -29,6 +33,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Wrks&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Wrks&layout=compact&theme=dark)
+
 
 
 ### ✍️ Quote:
