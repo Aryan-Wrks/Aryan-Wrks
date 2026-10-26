@@ -5,18 +5,15 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/user/ByteByAryan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryankishan030@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryan-Wrks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ## 💻 Tech Stack:
 
 **Languages:**
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Database:**
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,6 +32,22 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Wrks&layout=compact&theme=dark)
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Wrks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+## 🚀 Projects
+
+🔹 [**India-tech-job-market-analysis**](https://github.com/Aryan-Wrks/India-tech-job-market-analysis)<br>
+🔹 [**LibraryManagementSystem**](https://github.com/Aryan-Wrks/LibraryManagementSystem)
+
+## 📜 Certifications
+
+🥇 **Databases and SQL for Data Science with Python** – Coursera<br>
+🥇 **Fundamentals of Computer Organization** – Coursera<br>
+📜 **Introduction to Software Engineering** – Coursera<br>
+📜 **OOP in C++** – Coursera<br>
+📜 **OOP in Java** – Coursera 
 
 ### ✍️ Quote:
 
