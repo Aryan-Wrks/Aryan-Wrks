@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats:
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Wrks&show_icons=true&theme=dark&hide_border=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Wrks&theme=github_dark" alt="Profile details" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Wrks&theme=dark)
 
