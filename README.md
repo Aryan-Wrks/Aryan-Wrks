@@ -27,14 +27,18 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Wrks&theme=github_dark" alt="Profile details" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Wrks&theme=dark)
+<p align="center">
+  <img src="https://YOUR-REAL-VERCEL-ADDRESS/?user=Aryan-Wrks&theme=dark" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Wrks&layout=compact&theme=dark)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-Wrks&theme=github_dark" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryan-Wrks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 ## 🚀 Projects
 
