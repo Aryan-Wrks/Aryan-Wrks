@@ -27,8 +27,10 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Wrks&theme=github_dark" alt="Profile details" />
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://YOUR-REAL-VERCEL-ADDRESS/?user=Aryan-Wrks&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aryan-Wrks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
