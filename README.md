@@ -27,11 +27,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Wrks&theme=github_dark" alt="Profile details" />
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan-Wrks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-Wrks&theme=github_dark" alt="Top Languages" />
