@@ -23,19 +23,11 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Wrks&theme=github_dark" alt="Profile details" />
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan-Wrks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-Wrks&theme=github_dark" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aryan-Wrks&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aryan-Wrks&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan-Wrks&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryan-Wrks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -61,3 +53,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Talk+is+cheap.+Show+me+the+code.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Keep+learning.+Keep+building." alt="Quote" />
 </div>
+
+
